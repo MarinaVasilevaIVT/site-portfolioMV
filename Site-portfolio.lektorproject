@@ -1,0 +1,8 @@
+[project]
+name = Site-portfolio
+
+[servers.ghdeploy]
+name = Deploy to Github Pages site
+target = ghpages+https://MarinaVasilevaIVT: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@MarinaVasilevaIVT/site-portfolioMV
+
+
